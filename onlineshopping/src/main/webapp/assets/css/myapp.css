@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. using .navbar-static-top. Change if height of navigation changes. */
     height:100%;
 }
 
@@ -78,7 +78,7 @@ footer {
 	width:100%;
 	position:absolute;
 	bottom:0px;
-	height: 50px;
+	height: 30px;
 	
 }
 
