@@ -32,8 +32,11 @@
 <!-- Bootstrap core CSS -->
 <link href="${css}/bootstrap.min.css" rel="stylesheet">
 <!-- Bootstarp Readable theme -->
-<link href="${css}/bootstarp-readable-theme.css" rel="stylesheet">
+<%-- <link href="${css}/bootstarp-readable-theme.css" rel="stylesheet"> --%>
 
+<!-- Bootstarp dataTable -->
+<link href="${css}/dataTables.bootstrap.css" rel="stylesheet">
+	
 <!-- Custom styles for this template -->
 <link href="${css}/myapp.css" rel="stylesheet">
 
@@ -73,6 +76,15 @@
 	<!-- Bootstrap core JavaScript -->
 	<script src="${js}/jquery.js"></script>
 	<script src="${js}/bootstrap.min.js"></script>
+	
+	<!-- Jquery DataTables Plugin -->
+	<script src="${js}/jquery.dataTables.js"></script>
+	
+	
+	<!-- Jquery DataTables Plugin -->
+	<script src="${js}/dataTables.bootstrap.js"></script>
+	
+	
 	<script src="${js}/myapp.js"></script>
 	
 	</div>	
